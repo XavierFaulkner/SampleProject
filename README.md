@@ -2,7 +2,7 @@
 
 ## This is a sample project
 
-### _Hi from Jane_
-### Hi Jane, thanks for the changes!
-#### Bye
-![Duck says Hi](https://www.dhresource.com/albu_392929040_00/1.0x0.jpg)
+### _Hi from Sanika_
+## Hi Xavier, thanks for the help!
+# Bye
+![Playful kitties](https://www.publicdomainpictures.net/pictures/60000/velka/cute-kittens-in-basket.jpg)
