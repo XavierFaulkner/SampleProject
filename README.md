@@ -1,5 +1,7 @@
 # SampleProject
 
-This is a sample project
+##This is a sample project
 
-Hi from Jane
+###_Hi from Jane_
+#### Bye
+![Duck says Hi](https://www.dhresource.com/albu_392929040_00/1.0x0.jpg)
